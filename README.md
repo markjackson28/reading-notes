@@ -17,8 +17,8 @@
 15.
 
 
-- [x] Set up accounts
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [x] Create Note Repo
+- [ ] Set up accounts
+- [ ] Set up machine
+- [ ] Self Assessment
+- [ ] Upload Canvas Assignments
