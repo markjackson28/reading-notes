@@ -1,4 +1,4 @@
-## Code 201 Reading Notes
+## Code 201 Reading Notes :smiley:
 
 1.
 2.
@@ -18,7 +18,8 @@
 
 
 - [x] Create Note Repo
-- [ ] Set up accounts
-- [ ] Set up machine
-- [ ] Self Assessment
-- [ ] Upload Canvas Assignments
+- [x] Set up accounts
+- [x] Set up machine
+- [x] Self Assessment
+- [x] Upload Canvas Assignments
+
