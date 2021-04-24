@@ -16,6 +16,8 @@
 14.
 15.
 
+## *Notes*
+
 
 - [x] Create Note Repo
 - [x] Set up accounts
