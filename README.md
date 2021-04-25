@@ -2,7 +2,7 @@
 
 Descrip
 
-1.
+1. [Reading 1](https://markjackson28.github.io/reading-notes/class-01.html)
 2.
 3.
 4.
