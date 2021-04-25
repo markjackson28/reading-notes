@@ -1,4 +1,4 @@
-## Code 201 Reading Notes :smiley:
+## **Code 201 Reading Notes** :smiley:
 
 Descrip
 
@@ -19,11 +19,3 @@ Descrip
 15.
 
 ## *Notes*
-
-
-- [x] Create Note Repo
-- [x] Set up accounts
-- [x] Set up machine
-- [x] Self Assessment
-- [x] Upload Canvas Assignments
-
