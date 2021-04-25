@@ -4,7 +4,7 @@
 
 1. [Reading 1](https://markjackson28.github.io/reading-notes/class-01.html)
 
-2. 
+2. [Reading 2](https://markjackson28.github.io/reading-notes/class-02.html)
 
 3. 
 
