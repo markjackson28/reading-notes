@@ -1,10 +1,11 @@
 ## **Code 201 Reading Notes** :smiley:
 
-Descrip
+## This is a place where I take notes for code 201n22
 
 1. [Reading 1](https://markjackson28.github.io/reading-notes/class-01.html)
 2.
 3.
+
 4.
 5.
 6.
