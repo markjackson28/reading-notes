@@ -3,7 +3,7 @@
 
 Summary/Notes of readings 
 
-*HTML Chapter 3: List (pp. 62-73)*
+*HTML Chapter 3: Lists (pp. 62-73)*
 
 - 
 
