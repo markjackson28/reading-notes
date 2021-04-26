@@ -6,11 +6,11 @@
 
 2. [Reading 2](https://markjackson28.github.io/reading-notes/class-02.html)
 
-3. 
+3. [Reading 3](https://markjackson28.github.io/reading-notes/class-03.html)
 
-4. 
+4. [Reading 4](https://markjackson28.github.io/reading-notes/class-04.html)
 
-5. 
+5. [Reading 5](https://markjackson28.github.io/reading-notes/class-05.html)
 
 6. 
 
