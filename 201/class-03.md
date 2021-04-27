@@ -1,5 +1,7 @@
 
-## Class 03
+# Class 03
+
+## Summary/Notes of readings 
 
 Summary/Notes of readings 
 

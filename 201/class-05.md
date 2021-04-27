@@ -1,5 +1,7 @@
 
-## Class 05
+# Class 05
+
+## Summary/Notes of readings 
 
 Summary/Notes of readings 
 

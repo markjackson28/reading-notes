@@ -1,7 +1,7 @@
 
-## Class 01
+# Class 01
 
-Summary/Notes of readings 
+## Summary/Notes of readings 
 
 *HTML Chapter 1: Structure (pp.12-39)*
 

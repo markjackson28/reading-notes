@@ -1,5 +1,7 @@
 
-## Class 04
+# Class 04
+
+## Summary/Notes of readings 
 
 Summary/Notes of readings 
 

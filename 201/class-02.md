@@ -1,7 +1,7 @@
 
-## Class 02
+# Class 02
 
-Summary/Notes of readings 
+## Summary/Notes of readings 
 
 *HTML Chapter 2: Text (pp.40-61)*
 
