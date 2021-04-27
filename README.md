@@ -2,7 +2,7 @@
 
 ## This is a place where I take notes for code 201n22
 
-1. [Reading 1](https://markjackson28.github.io/reading-notes/class-01.html)
+1. [Reading 1](201/class-01)
 
 2. [Reading 2](https://markjackson28.github.io/reading-notes/class-02.html)
 
