@@ -1,6 +1,8 @@
 
 # Class 02
 
+[Home](https://markjackson28.github.io/reading-notes/)
+
 ## Summary/Notes of readings 
 
 *HTML Chapter 2: Text (pp.40-61)*
