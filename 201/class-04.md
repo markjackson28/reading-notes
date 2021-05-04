@@ -8,7 +8,7 @@ Summary/Notes of readings
 *HTML Chapter 4: Links (pp. 74-93)*
 
 - Links can be used to direct you to a section on a page, a different page, another site, or email. 
-- Links are created my using the <a\> element. (pp. 77)
+- "Links are created my using the <a\> element". (pp. 77)
 - The href (hypertext reference) attribute must be included in the <a\> tag.
 
 *HTML Chapter 15: Layout (pp.358-404)*
@@ -24,9 +24,9 @@ Summary/Notes of readings
 *JS Chapter 3: Functions, Methods, and Objects (pp.86-99)*
 
 - Functions allow you to group specific tasks together. 
-- To create a function, you have to start with the keyword, ‘function’ followed by a id/name for the function and then parathesis. Then within the curly braces, you have whatever task you want to execute. 
+- To create a function, you have to start with the keyword, ‘function’ followed by a id/name for the function and then parenthesis. Then within the curly braces, you have whatever task you want to execute. 
 - You can call the function by using the id/name that it was given.
-- To be more specific about a function, you can add parameters with the parathesis. Then declare what you want to do with those parameters within the curly braces. 
+- To be more specific about a function, you can add parameters with the parenthesis. Then declare what you want to do with those parameters within the curly braces. 
 
 *6 Reasons for Pair Programming Article*
 
