@@ -34,5 +34,5 @@ Summary/Notes of readings
 - It can be very helpful to get a second set of fresh eyes to debug a code.
 - You can also learn a couple of tips and tricks from each other. 
 - This can also improve your social skills
-- Lasty, this will help and prepare you for your future career.  
+- Lastly, this will help and prepare you for your future career.  
 
