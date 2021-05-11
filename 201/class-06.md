@@ -11,7 +11,7 @@
 - If you’re having trouble, find a different way to use that tool that makes sense to you and understand how that tool is being used in that application.
 - Break down the code to make it easier to comprehend.
 
-*JS Chapter 3: Objects and Literals (pp.100-105)
+*JS Chapter 3: Objects and Literals (pp.100-105)*
 
 - Objects combine variables and functions to create a “model”.
 - Variables are know as properties and functions are know as the method.
