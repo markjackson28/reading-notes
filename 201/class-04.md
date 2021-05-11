@@ -3,7 +3,7 @@
 
 [Home](https://markjackson28.github.io/reading-notes/)
 
-Summary/Notes of readings 
+## Summary/Notes of readings 
 
 *HTML Chapter 4: Links (pp. 74-93)*
 

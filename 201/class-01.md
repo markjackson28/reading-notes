@@ -12,7 +12,6 @@
 - Understand when and where to use certain tags in HTML code.
 - You can create a generic website on mac by writing code in text editor and saving the file as an .HTML.
 
-
 *HTML Chapter 8: Extra Markup (pp.176-199)*
 
 - How to tell the type of HTML is by looking at the DOCTYPE This should tell you the version of HTML you are working with.

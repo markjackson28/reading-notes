@@ -1,11 +1,9 @@
 
 # Class 03
 
-## Summary/Notes of readings 
-
 [Home](https://markjackson28.github.io/reading-notes/)
 
-Summary/Notes of readings 
+## Summary/Notes of readings 
 
 *HTML Chapter 3: Lists (pp. 62-73)*
 
