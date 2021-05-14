@@ -1,7 +1,7 @@
 
 # **Code 201 Reading Notes**
 
-## This is a place where I take notes for code 201n22 :128214:
+## This is a place where I take notes for code 201n22 :notebook:
 
 ## Table of Contents
 
