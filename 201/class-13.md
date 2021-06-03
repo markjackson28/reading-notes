@@ -30,7 +30,7 @@ function supports_html5_storage() {
   }
 }
 ```
-(Or use Modernizr method)
+(Or the Modernizr method)
 ```
 if (Modernizr.localstorage) {
   // window.localStorage is available!
