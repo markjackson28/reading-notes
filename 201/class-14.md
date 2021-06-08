@@ -73,6 +73,7 @@ CSS Transitions and Animations
 
 *14b Reading*
 
+Overall, that was a pretty good and important article to read. For the most part, I do agree with most of the article. Finding a perfect team is really hard to find when there are so many variables. I do believe that a team that should somehow connect on an emotional level. Especially with my military background, we had to get to really know each other really well since we would be working with each other for a while. Team bonding somehow is very important along with treating each other with respect. At my previous job, I did have a manager who was very talkative and never really care about his team. I brought up a personal situation about him and I, he got defensive and from then on, I never went to him again. I went into work, did my job, and left. I definitely did not feel like I was in a psychological safe space. I think it’s very important that jobs somehow incorporate psychological safety into the workspace. 
 
 
 [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
