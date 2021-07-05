@@ -3,6 +3,8 @@
 
 ## This is a place where I take notes for code 201n22 :notebook:
 
+[Home](https://markjackson28.github.io/reading-notes/)
+
 ## Table of Contents
 
 - [Reading 1](201/class-01)
