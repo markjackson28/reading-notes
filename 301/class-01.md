@@ -31,3 +31,19 @@
 - Reliability − The overall system reliability increases since the reliability of each individual component enhances the reliability of the whole system via reuse.
 - System maintenance and evolution − Easy to change and update the implementation without affecting the rest of the system.
 - Independent − Independency and flexible connectivity of components. Independent development of components by different group in parallel. Productivity for the software development and future - software development.
+
+[What is Props and How to Use it in React](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)
+
+*What is props short for?*
+
+- Properties.
+
+*How are props used in React?*
+
+- It is used for passing stat from one component to another.
+
+*What is the flow of props?*
+
+- Props can only be passed to components in one-way (parent to child).
+
+## Things I want to know more about
