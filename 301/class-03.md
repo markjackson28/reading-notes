@@ -78,3 +78,5 @@ objectFour.laugh() // 😂😂😂😂😂
 *How does the child component invoke a method that was passed to it from a parent component?*
 
 - You pass in whatever prop you want to invoke into the parentheses. ```this.props.nameofmethod(this.props.nameofkey)```
+
+## Things I want to know more about
