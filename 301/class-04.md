@@ -40,7 +40,7 @@ condition ? value if true : value if false
 ```
 
 ```
-x===y ? true : false
+x===y ? console.log(true) : console.log(false);
 ```
 
 ## Things I want to know more about
