@@ -23,7 +23,7 @@
 
 *Why would we use a ternary operator?*
 
-It is a one liner for an ```if``` ```else``` statement.
+To shorten an  ```if``` ```else``` statement.
 
 ```
 condition ? value if true : value if false
