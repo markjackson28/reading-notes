@@ -7,6 +7,7 @@
 
 ## Table of Contents
 
+- [Code 401 Pre-Work](../401/class-00)
 - [Reading 1](../401/class-01)
 - [Reading 2](../401/class-02)
 - [Reading 3](../401/class-03)

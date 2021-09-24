@@ -1,0 +1,31 @@
+# Class 00
+
+[Home](https://markjackson28.github.io/reading-notes/)
+
+## Pre-Work
+
+*Articles*
+
+- [Solving Problems](https://simpleprogrammer.com/solving-problems-breaking-it-down/)
+- [Act like you make $1000/hr](https://medium.com/swlh/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-f04628bb3e6d)
+- [How to think like a programmer](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/)
+- [The 5 Whys](https://www.mindtools.com/pages/article/newTMC_5W.htm)
+
+*Videos*
+
+- [what the heck is the event loop anyway](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [The Super Mario Effect](https://www.youtube.com/watch?v=9vJRopau0g0)
+
+*401 References*
+
+- [ES6 Features](http://es6-features.org/#Constants)
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [You Don’t Know JS series](https://github.com/getify/You-Dont-Know-JS)
+
+*Up your JavaScript Game (Code Challenges)*
+
+- [Complete all of the Code 301 Code Challenges](https://codefellows.github.io/code-401-javascript-guide/curriculum/prework/301-code-challenges.html)
+- [Callbacks](https://codefellows.github.io/code-401-javascript-guide/curriculum/prework/callbacks/)
+- [Promises](https://codefellows.github.io/code-401-javascript-guide/curriculum/prework/promises/)
+- [Async/Await](https://codefellows.github.io/code-401-javascript-guide/curriculum/prework/async-await/)
+- [ES6 Classes](https://codefellows.github.io/code-401-javascript-guide/curriculum/prework/classes/)
