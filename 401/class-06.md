@@ -19,6 +19,7 @@
 - Dynamic Module Loading: ‘Dynamic loading is a mechanism by which a computer program can, at run time, load a library (or other binary) into memory, retrieve the addresses of functions and variables contained in the library, execute those functions or access those variables, and unload the library from memory.’ [Ref.](https://en.wikipedia.org/wiki/Dynamic_loading)
 - Singleton Pattern: ‘a software design pattern that restricts the instantiation of a class to one "single" instance. This is useful when exactly one object is needed to coordinate actions across the system.’ [Ref.](https://en.wikipedia.org/wiki/Singleton_pattern)
 - CRUD -> REST Method Matches:
+
 > Create -> POST
 
 > Read -> GET
