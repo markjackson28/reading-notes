@@ -18,7 +18,8 @@
 - Encryption: ‘securing digital data using one or more mathematical techniques, along with a password or "key" used to decrypt the information.’[Ref.](https://www.investopedia.com/terms/e/encryption.asp)
 
 - Token: is a digital security token for two-factor authentication systems.[Ref.](https://www.easytechjunkie.com/what-is-a-software-token.htm)
-Bearer: ‘The name “Bearer authentication” can be understood as “give access to the bearer of this token.”’[Ref.](https://swagger.io/docs/specification/authentication/bearer-authentication/)
+
+- Bearer: ‘The name “Bearer authentication” can be understood as “give access to the bearer of this token.”’[Ref.](https://swagger.io/docs/specification/authentication/bearer-authentication/)
 
 - Secret: ‘secret key is private to you which means you will never reveal that to the public or inject inside the JWT token.’[Ref.](https://medium.com/jspoint/so-what-the-heck-is-jwt-or-json-web-token-dca8bcb719a6#:~:text=JWT%20is%20created%20with%20a,key%20stored%20on%20the%20server.)
 
