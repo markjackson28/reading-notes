@@ -22,8 +22,10 @@
 
 *Which 3 things had you heard about previously and now have better clarity on?*
 - Not much so far.
+
 *Which 3 things are you hoping to learn more about in the upcoming lecture/demo?*
 - Data structures and Algorithms, server, and aws.
+
 *What are you most excited about trying to implement or see how it works?*
 - Aws.
 
