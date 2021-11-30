@@ -26,3 +26,4 @@
 - [Reading 16](../401/class-16)
 - [Reading 17](../401/class-17)
 - [Reading 18](../401/class-18)
+- [Reading 19](../401/class-19)
