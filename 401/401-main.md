@@ -31,3 +31,4 @@
 - [Reading 21](../401/class-21)
 - [Reading 22](../401/class-22)
 - [Reading 23](../401/class-23)
+- [Reading 24](../401/class-24)
