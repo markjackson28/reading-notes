@@ -35,3 +35,4 @@
 - [Reading 25](../401/class-25)
 - [Reading 26](../401/class-26)
 - [Reading 27](../401/class-27)
+- [Reading 28](../401/class-28)
