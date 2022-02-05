@@ -39,3 +39,4 @@
 - [Reading 29](../401/class-29)
 - [Reading 30](../401/class-30)
 - [Reading 31](../401/class-31)
+- [Reading 32](../401/class-32)
